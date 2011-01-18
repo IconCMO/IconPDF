@@ -1,7 +1,11 @@
 IconPDF
 =======
 
-IconPDF is a wrapper to implement PDFlib (http://pdflib.com/) functions in TCPDF (http://www.tcpdf.org/). To begin with, very few PDFlib functions are supported, as they covered our initial needs. Additionally, it was built with the goal of implementing the PDFlib v6 (or so) interface, rather than the more current APIs. More than likely, you will need to write further code to be suitable to your project.
+
+by [Icon Systems, Inc.](http://iconcmo.com)
+-------------------------------------------
+
+IconPDF is a wrapper to implement PDFlib ([http://pdflib.com/](http://pdflib.com)) functions in TCPDF ([http://www.tcpdf.org/](http://www.tcpdf.org)). To begin with, very few PDFlib functions are supported, as they covered our initial needs. Additionally, it was built with the goal of implementing the PDFlib v6 (or so) interface, rather than the more current APIs. More than likely, you will need to write further code to be suitable to your project.
 
 To use, copy the IconPDF.php file into your application. Open it, and adjust the paths to TCPDF as appropriate. Then, in your PHP code that calls PDFlib, add a line to include IconPDF.php. Then, give it a shot and see how it works!
 
